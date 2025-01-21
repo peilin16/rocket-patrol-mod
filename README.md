@@ -1,1 +1,2 @@
 # rocket-patrol-mod
+The purpose of this tutorial is to use Phaser 3 to recreate Rocket Patrol (1978), a rudimentary sci-fi gallery shooter included as a pack-in game for the obscure APF MP-1000 console. If you’re not familiar with the game (and tbh why would you be), you can check out a short demonstration on YouTube. The object of the game is to destroy as many spaceships as you can in one minute. The APF version has an asynchronous two-player mode and a player-versus-computer mode. For this tutorial, we’re going to construct a single-player mode.
